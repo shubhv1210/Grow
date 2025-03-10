@@ -72,4 +72,3 @@ Create a new branch
 Submit a pull request
 Your contributions are always welcome!
 
-**Made with 💙 by [Shashank Guda](https://shashankguda.me)**
